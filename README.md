@@ -1,4 +1,4 @@
 # Leggimi mod
-- [] prova1
-- [] prova2
+- [ ] prova1
+- [ ] prova2
 
